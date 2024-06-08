@@ -37,7 +37,7 @@ Make sure you have the following libraries installed:
    
 You can install these libraries using pip:
 
-   pip install matplotlib wordcloud nltk numpy pillow
+    pip install matplotlib wordcloud nltk numpy pillow
 
 # Output
   * A word cloud image saved to the specified path.
