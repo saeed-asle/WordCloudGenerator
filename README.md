@@ -26,6 +26,19 @@ The code provides the following features:
 4.Word Cloud Display:
 
   * Displays the generated word cloud using matplotlib.
+Dependencies
+
+Make sure you have the following libraries installed:
+ * matplotlib
+ * wordcloud
+ * nltk
+ * numpy
+ * PIL (Pillow)
+   
+You can install these libraries using pip:
+
+   pip install matplotlib wordcloud nltk numpy pillow
+
 # Output
   * A word cloud image saved to the specified path.
   * Display of the word cloud using matplotlib.
